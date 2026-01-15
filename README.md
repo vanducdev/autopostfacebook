@@ -3,6 +3,8 @@
 ## Mô tả
 Công cụ tự động đăng bài lên Facebook với giao diện dòng lệnh đẹp mắt.
 
+<img width="1105" height="586" alt="image" src="https://github.com/user-attachments/assets/2bcd1a40-434d-4293-a8ac-9eac1ad6f4f5" />
+
 ## Tính năng
 - Tự động đăng bài lên Facebook
 - Hỗ trợ đăng ảnh và nội dung text
