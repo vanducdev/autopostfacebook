@@ -1,0 +1,6 @@
+requests==2.31.0
+pyperclip==1.8.2
+colorama==0.4.6
+selenium==4.15.2
+undetected-chromedriver==3.5.4
+pystyle==2.5
